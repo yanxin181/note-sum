@@ -1,6 +1,6 @@
 interface:
-  display_name: "Note Sum"
+  display_name: "Intern Log Kit"
   short_description: "把实习代码工作整理成复盘日志、汇报和简历评分。"
-  default_prompt: "使用 $note-sum，把这次代码工作整理成一篇适合复盘的学习日志。"
+  default_prompt: "使用 $intern-log-kit，把这次代码工作整理成一篇适合复盘的学习日志。"
 policy:
   allow_implicit_invocation: true

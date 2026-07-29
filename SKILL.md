@@ -1,9 +1,9 @@
 ---
-name: note-sum
+name: intern-log-kit
 description: 生成或修订适合复盘的实习学习日志、代码学习笔记、日报、周报和任务评分，可输出到 Obsidian 或普通 Markdown 文档。适用于用户要求总结实习期间做了什么、整理代码对话、写日报或周报、评估哪些工作适合写进简历、或修改已有生成笔记的场景。
 ---
 
-# Note Sum
+# Intern Log Kit
 
 ## 使用前配置
 
